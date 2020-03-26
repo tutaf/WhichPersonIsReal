@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tv_1">Какое лицо настоящее?</string>
+    <string name="tv_2">Одно из этих лиц настоящее, а другое - сгенерированно нейросетью. Попробуйте угадать какое из них настоящее. Попробуйте угадать какое из них настоящее.</string>
+    <string name="error_file_read">Ошибка чтения из файла</string>
+    <string name="next">Дальше</string>
+    <string name="right">Правильно!</string>
+    <string name="wrong">Неправильно!</string>
+    <string name="guessing_percentage">Процент угадываний: %1$d</string>
+    <string name="this_session">Эта сессия</string>
+    <string name="total">Всё время</string>
+    <string name="tv_right">Правильно: %1$d</string>
+    <string name="tv_wrong">Неправильно: %1$d</string>
+    <string name="error_loading_image">Ошибка во время загрузки изображений!</string>
+    <string name="info">Инфо</string>
+    <string name="description">Одно из этих лиц - настоящее, а другое - сгенерированно нейросетью. Сможете ли вы определить настоящее? Приложению нужен интернет для работы. Картинки взяты с http://www.whichfaceisreal.com/. Большое спасибо разработчикам этого сайта.</string>
+    <string name="press_again_to_exit">Нажмите еще раз чтобы выйти...</string>
+</resources>
