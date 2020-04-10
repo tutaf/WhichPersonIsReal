@@ -1,4 +1,4 @@
-# WhichPersonIsReal
+# Which Person Is Real
 There are 2 faces: a real and an AI-generated. Try to guess which is the real one.
 
 ![screenshot1](1.jpg) ![screenshot2](2.jpg)
